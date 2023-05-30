@@ -223,9 +223,6 @@ td,th{
   line-height: 1.5;
 }
 
-.items:before{
-  
-}
 
 .items:first-child{
   font-weight: bold;
@@ -262,4 +259,3 @@ td,th{
   .lista-diferenciales, .imagen-diferenciales{
       width: 100%;
   }
-}
